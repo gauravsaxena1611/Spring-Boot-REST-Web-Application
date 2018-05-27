@@ -1,0 +1,20 @@
+
+
+
+
+Webservices
+-----------
+GET (Can hit directly from any web browser )
+--------------------------------------------
+http://localhost:8080/students/Student1/courses/Course1
+http://localhost:8080/students/Student1/courses
+
+POST (Need to send request object for REST Client - Ex. postman)
+----------------------------------------------------------------
+http://localhost:8080/students/Student1/courses
+
+
+
+Unit Testing
+------------
+This example also contains two unit testing files in TEST folder, do explore them too !!
